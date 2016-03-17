@@ -1,4 +1,4 @@
-for (var i = 1; i <=20; i++) {
+for (var i = 1; i <=100; i++) {
   var value;
   
     if (i%3 === 0 && i%5 === 0) {
